@@ -1,0 +1,15 @@
+D:\Dotnet\Layer.DAL\bin\Debug\net7.0\Layer.DAL.deps.json
+D:\Dotnet\Layer.DAL\bin\Debug\net7.0\Layer.DAL.dll
+D:\Dotnet\Layer.DAL\bin\Debug\net7.0\Layer.DAL.pdb
+D:\Dotnet\Layer.DAL\bin\Debug\net7.0\Layer.BLL.dll
+D:\Dotnet\Layer.DAL\bin\Debug\net7.0\Layer.BLL.pdb
+D:\Dotnet\Layer.DAL\obj\Debug\net7.0\Layer.DAL.csproj.AssemblyReference.cache
+D:\Dotnet\Layer.DAL\obj\Debug\net7.0\Layer.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\Layer.DAL\obj\Debug\net7.0\Layer.DAL.AssemblyInfoInputs.cache
+D:\Dotnet\Layer.DAL\obj\Debug\net7.0\Layer.DAL.AssemblyInfo.cs
+D:\Dotnet\Layer.DAL\obj\Debug\net7.0\Layer.DAL.csproj.CoreCompileInputs.cache
+D:\Dotnet\Layer.DAL\obj\Debug\net7.0\Layer.DAL.csproj.CopyComplete
+D:\Dotnet\Layer.DAL\obj\Debug\net7.0\Layer.DAL.dll
+D:\Dotnet\Layer.DAL\obj\Debug\net7.0\refint\Layer.DAL.dll
+D:\Dotnet\Layer.DAL\obj\Debug\net7.0\Layer.DAL.pdb
+D:\Dotnet\Layer.DAL\obj\Debug\net7.0\ref\Layer.DAL.dll

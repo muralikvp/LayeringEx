@@ -1,0 +1,12 @@
+D:\Dotnet\Layer.BLL\bin\Debug\net7.0\Layer.BLL.deps.json
+D:\Dotnet\Layer.BLL\bin\Debug\net7.0\Layer.BLL.dll
+D:\Dotnet\Layer.BLL\bin\Debug\net7.0\Layer.BLL.pdb
+D:\Dotnet\Layer.BLL\obj\Debug\net7.0\Layer.BLL.csproj.AssemblyReference.cache
+D:\Dotnet\Layer.BLL\obj\Debug\net7.0\Layer.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\Layer.BLL\obj\Debug\net7.0\Layer.BLL.AssemblyInfoInputs.cache
+D:\Dotnet\Layer.BLL\obj\Debug\net7.0\Layer.BLL.AssemblyInfo.cs
+D:\Dotnet\Layer.BLL\obj\Debug\net7.0\Layer.BLL.csproj.CoreCompileInputs.cache
+D:\Dotnet\Layer.BLL\obj\Debug\net7.0\Layer.BLL.dll
+D:\Dotnet\Layer.BLL\obj\Debug\net7.0\refint\Layer.BLL.dll
+D:\Dotnet\Layer.BLL\obj\Debug\net7.0\Layer.BLL.pdb
+D:\Dotnet\Layer.BLL\obj\Debug\net7.0\ref\Layer.BLL.dll

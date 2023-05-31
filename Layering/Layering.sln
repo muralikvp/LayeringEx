@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Layering", "Layering.csproj", "{95C2A93B-F4C5-4C75-A4DD-705AEC6492E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Layer.BLL", "..\Layer.BLL\Layer.BLL.csproj", "{1C0C3F44-80A4-499B-81FB-0A160A337C90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Layer.DAL", "..\Layer.DAL\Layer.DAL.csproj", "{ABBC66F0-B420-47B6-BD0A-EB09E450C5BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95C2A93B-F4C5-4C75-A4DD-705AEC6492E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95C2A93B-F4C5-4C75-A4DD-705AEC6492E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95C2A93B-F4C5-4C75-A4DD-705AEC6492E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95C2A93B-F4C5-4C75-A4DD-705AEC6492E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0C3F44-80A4-499B-81FB-0A160A337C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0C3F44-80A4-499B-81FB-0A160A337C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0C3F44-80A4-499B-81FB-0A160A337C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0C3F44-80A4-499B-81FB-0A160A337C90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABBC66F0-B420-47B6-BD0A-EB09E450C5BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABBC66F0-B420-47B6-BD0A-EB09E450C5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABBC66F0-B420-47B6-BD0A-EB09E450C5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABBC66F0-B420-47B6-BD0A-EB09E450C5BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A58CDB13-AF45-430F-B147-6D90C1AFA767}
+	EndGlobalSection
+EndGlobal
